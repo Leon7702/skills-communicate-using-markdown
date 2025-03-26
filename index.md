@@ -11,7 +11,9 @@
 int i = 1;
 ```
 
-
+- [x] Learn about markdowk
+- [x] apply knowledge
+- [x] yay
 
 
 ###### Exploring GHM
