@@ -7,6 +7,9 @@
 ![GitGub mascot](https://octodex.github.com/images/daftpunktocat-thomas.gif)
 
 
+```java
+int i = 1;
+```
 
 
 
